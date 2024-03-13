@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.25)
-project(PWNGeometryEigen)
+project(ProjectName)
 
 enable_testing()
 
